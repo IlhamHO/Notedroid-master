@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Notedroid</string>
+    <string name="text_lbl_titel">Titel</string>
+    <string name="text_lbl_datum">Datum</string>
+    <string name="text_lbl_inhoud">Inhoud</string>
+    <string name="text_btn_save">SAVE</string>
+    <string name="text_mi_add">Add</string>
+    <string name="text_mi_search">Search</string>
+</resources>
